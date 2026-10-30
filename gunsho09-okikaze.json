@@ -1,10 +1,15 @@
 {
- "work": "興風集",
+ "work": "興風集（群書類従本）",
  "work_id": "gunsho09-okikaze",
  "repo": "kumoi-no-fumigura/okikaze",
  "yomi": "おきかぜしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安前期",
+  "author": "藤原興風",
+  "desc": "三十六歌仙の一人、藤原興風の家集。寛平の御時の中宮歌合や、貞保親王の母后の五十賀の屏風歌など、宇多朝の宮廷の歌を収める。"
+ },
  "editions": [
   {
    "pid": "1879517",
@@ -687,6 +692,6 @@
   "poems": 57,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
